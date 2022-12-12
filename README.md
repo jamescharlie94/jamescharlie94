@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="https://github.com/mariomitt/mariomitt/blob/main/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966.gif"  />
+  <img height="350" src="https://github.com/jamescharlie94/jamescharlie94/blob/main/assets/happy%20coding.gif"  />
 </div>
 
 ###
@@ -16,8 +16,11 @@
 
 ###
 
-<p align="left">As a Senior Full-Stack developer with 7+ years of experience, I have a demonstrated history of excellence throughout multiple positions with several
-companies with a focus on Full-Stack development and Engineering. I also have deep knowledge of backend development and familiar with PHP frameworks and Node.js. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.
+<p align="left">I'm a talented and passionate full-stack developer with a focus on front-end development with React, Vue and Angular.
+I'm also strong in building mobile apps with React Native and specialized in dynamic languages such as JavaScript, Python, Ruby, PHP, etc.
+I'm passionate about working with motivated teams and getting things done.
+Currently, I prefer to work with React and Redux.
+I strictly adhere to the DRY principle and KISS approach.
 </p>
 
 ###
